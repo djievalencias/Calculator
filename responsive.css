@@ -1,0 +1,13 @@
+﻿/* For Tablet */
+@media all and (max-width: 1000px) {
+    .calculator-grid {
+        grid-template-rows: minmax(120px, auto) repeat(5, 20%);
+    }
+}
+
+/* For Smartphone*/
+@media all and (max-width: 670px) {
+    .calculator-grid {
+        grid-template-rows: minmax(120px, auto) repeat(5, 20%);
+    }
+}

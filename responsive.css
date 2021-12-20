@@ -1,6 +1,6 @@
 ﻿/* For Smartphone*/
 @media all and (max-width: 670px) {
     .calculator-grid {
-        grid-template-rows: minmax(220px, auto) repeat(5, 200px);
+        grid-template-rows: minmax(170px, auto) repeat(5, 150px);
     }
 }
